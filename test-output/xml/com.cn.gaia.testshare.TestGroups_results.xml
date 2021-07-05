@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gaiatest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.000">
+  <properties />
+  
+  
+            <testcase name="testGroup2" time="0.000" classname="com.cn.gaia.testshare.TestGroups" />
+      
+</testsuite>
